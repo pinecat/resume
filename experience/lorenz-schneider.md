@@ -23,8 +23,9 @@ Jun. 2016 - Present
 
 ###### <span style="color:#b00f5c">As a Web Developer:</span>
 * Deployed internal Gitlab server for company use.
-* Developed and automated deployment of a new intranet website to manage internal company resources.
-* Developed a REST API for serving sales and distribution data to manufacturers.
+* Develop and maintain a new intranet website to assist in managing internal company resources.
+* Develop and maintain a REST API for product inventory data.
+* Develop and maintain a Ruby on Rails applications for serving sales and distribution data to manufacturers.
 
 ###### <span style="color:#b00f5c">As a Network Administrator:</span>
 * Setup, manage, and maintain multiple servers for the company.
@@ -38,3 +39,4 @@ Jun. 2016 - Present
 * Created a full-featured Disaster Recovery Plan, comprised of an 80 plus page document, detailing the efforts to be made in the event of a disaster.
 * Work to plan, setup, and manage the back-up schedule for all our network servers.
 * Conduct extensive testing, based on the disaster recovery documentation, to ensure any recovery processes go smoothly, and that we have good back-ups.
+* Act as part of the incident response team, should a disaster occur, to help recover normal network operations.
