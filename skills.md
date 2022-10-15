@@ -13,4 +13,4 @@ Git, Docker/Podman, Firebase
 * Experience working on Windows, Mac, and Linux.
 * Experience with Agile.
 * Great in-person and remote communications skills.
-* Disaster recovery lead.
+* Disaster prevention and recovery planning.
